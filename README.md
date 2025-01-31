@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jarin Tias Meraj</h1>
-<h3 align="center">A passionate data science enthusiast and Python developer from Bangladesh</h3>
+<h3 align="center">A passionate Data Science enthusiast and AI developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarin-tias&label=Profile%20views&color=0e75b6&style=flat" alt="jarin-tias" /> </p>
 
